@@ -12,6 +12,11 @@
 #work {
     background: #45567d;
 }
-#contact{
-    height: 80vw;
+.img-fluid {
+    width: 400px;
+    height: 250px;
+}
+
+#contact {
+    height: 89vh;
 }
