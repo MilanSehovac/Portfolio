@@ -19,4 +19,11 @@
 
 #contact {
     height: 89vh;
+    
+}
+.text-center > a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+
 }
