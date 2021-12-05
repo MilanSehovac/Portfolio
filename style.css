@@ -35,3 +35,7 @@ footer {
     border-top: 5px solid #be3144;
     background: #303841;
 }
+
+footer a {
+    color: white;
+}
