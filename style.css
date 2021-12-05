@@ -9,6 +9,10 @@
 62deg, #3a3d40 0%, #181719 100%);
 }
 
+.heading {
+    font-weight: bold;
+}
+
 #work {
     background: #45567d;
 }
@@ -30,6 +34,7 @@ a{
     text-decoration: none;
     color: white;
     font-weight: bold;
+    padding: 2rem;
 }
 footer {
     border-top: 5px solid #be3144;
