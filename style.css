@@ -19,23 +19,19 @@
 
 #contact {
     height: 89vh;
-<<<<<<< HEAD
+    background: #303841;
+
     
+}
+a{
+    text-decoration: none;
 }
 .text-center > a{
     text-decoration: none;
     color: white;
     font-weight: bold;
-
 }
-a {
-    text-decoration: none;
-=======
-    background: #303841;
-}
-
 footer {
     border-top: 5px solid #be3144;
     background: #303841;
->>>>>>> abea5b26746ca84d552ef2608865db720d6eaaa5
 }
