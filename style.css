@@ -12,3 +12,12 @@
 #work {
     background: #45567d;
 }
+
+.img-fluid {
+    width: 400px;
+    height: 250px;
+}
+
+#contact {
+    height: 400px;
+}
