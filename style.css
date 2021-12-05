@@ -19,4 +19,10 @@
 
 #contact {
     height: 89vh;
+    background: #303841;
+}
+
+footer {
+    border-top: 5px solid #be3144;
+    background: #303841;
 }
